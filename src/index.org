@@ -46,7 +46,7 @@ tecnological development world wide.
 ** Interns and Mentors
 
    |-------+----------------------+----------------+------------+------+-----------------+---------------------------|
-   | S.No. | Candidate Name       | Affiliation    | GitProfile | Work | Project         | Mentor                    |
+   | S.No. |  Candidate Name      | Affiliation    | GitProfile | Work | Project         | Mentor                    |
    |       |                      | & Branch, Year |            | Log  |                 |                           |
    |-------+----------------------+----------------+------------+------+-----------------+---------------------------|
    |    1. | Raghav Mittal        | NIIT Rajasthan | [[https://github.com/raghavmittal101][link]]       | [[https://github.com/raghavmittal101/vlabs-internship.git/src/daily-log.org][link]] | Renarration     | Prof. Venkatesh Choppella |
@@ -114,6 +114,36 @@ For all logistics inquiries, the contact person is B. Sravanthi and she can be r
 - Phone: 040-6653-1288 ( Bakul Nivas, Boys Hostel)
 - Phone: 040-6653-1173 ( Parul Nivas, Girls Hostel)
 
+| S.No | Candidate Name       | Hostel Name | Room No |
+|------+----------------------+-------------+---------|
+|    1 | Raghav Mittal        | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|    2 | Raj Manvar           | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|    3 | Sasank Viswanatha    | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|    4 | Srivalya Elluru      | Parul Nivas |         |
+|------+----------------------+-------------+---------|
+|    5 | A. Namratha Deepthi  | Parul Nivas |         |
+|------+----------------------+-------------+---------|
+|    6 | Rama Shanbhag        | Parul Nivas |         |
+|------+----------------------+-------------+---------|
+|    7 | Harsha Vattem        | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|    8 | Anshuman             | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|    9 | Dheeraj              | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|   10 | Ian Galvin Fernandes | Bakul Nivas |         |
+|------+----------------------+-------------+---------|
+|   11 | Kavya Atmakuri       | Parul Nivas |         |
+|------+----------------------+-------------+---------|
+|   12 | Varsha Dyavaiah      | Parul Nivas |         |
+|------+----------------------+-------------+---------|
+|   13 | Jahanvi Ayyanik      | Parul Nivas |         |
+|------+----------------------+-------------+---------|
+|   14 | Meghana Bandaru      | Parul Nivas |         |
+  
 *** Dining
 There are multiple canteens and messes that serve breakfast, snacks, lunch and dinner inside campus.
 Also other options available in the neighbourhood area around IIIT-H campus.
